@@ -1,0 +1,122 @@
+Activating service name='org.xfce.Xfconf'
+Successfully activated service 'org.xfce.Xfconf'
+Activating service name='org.freedesktop.Notifications'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+
+** (at-spi2-registryd:1843): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:1843): WARNING **: Unable to register client with session manager
+Successfully activated service 'org.freedesktop.Notifications'
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.freedesktop.thumbnails.Thumbnailer1'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Activating service name='org.openobex'
+Successfully activated service 'org.openobex'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/trevor/.cache/oneconf/2a1ce7c2ae37a045e4cb4a6655ddffeb/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Reloaded configuration
+Reloaded configuration
+Reloaded configurationReloaded configuration
+
+Reloaded configurationReloaded configuration
+
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configuration
+Reloaded configurationReloaded configuration
+
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 605 requests (605 known processed) with 0 events remaining.
+Activating service name='org.xfce.Xfconf'
+Successfully activated service 'org.xfce.Xfconf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+
+** (at-spi2-registryd:1898): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:1898): WARNING **: Unable to register client with session manager
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.freedesktop.Notifications'
+Activating service name='org.freedesktop.thumbnails.Thumbnailer1'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+
+** (zeitgeist-datahub:2082): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+** Message: Index must be upgraded. Doing full rebuild
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-fts:2080): WARNING **: Unable to get info on application://zeitgeist-datahub.desktop
+
+** (zeitgeist-fts:2080): WARNING **: Unable to get info on application://totem.desktop
+
+** (zeitgeist-fts:2080): WARNING **: Unable to get info on application://rhythmbox.desktop
+Activating service name='org.openobex'
+Successfully activated service 'org.openobex'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/trevor/.cache/oneconf/2a1ce7c2ae37a045e4cb4a6655ddffeb/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.freedesktop.Notifications'

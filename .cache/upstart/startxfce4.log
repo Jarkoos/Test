@@ -1,0 +1,121 @@
+/usr/bin/startxfce4: X server already running on display :0
+xfce4-session: GNOME compatibility is enabled and gnome-keyring-daemon is found on the system. Skipping gpg/ssh-agent startup.
+
+(process:1799): Indicator-Power-WARNING **: Fail to query backlight devices.
+
+(xfsettingsd:1870): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1868): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1868): polkit-gnome-1-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+No window manager registered on screen 0. To start the xfdesktop without this check, run with --disable-wm-check.
+
+(xfsettingsd:1870): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1786): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+init: indicator-application main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-application respawning too fast, stopped
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power respawning too fast, stopped
+
+** (nm-applet:1809): CRITICAL **: nm_secret_agent_register: assertion 'priv->registered == FALSE' failed
+
+(xfwm4:1786): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+Loading configuration plugins
+blueman-applet version 1.23 starting
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+WARNING:root:can not import unity GI cannot import name Dbusmenu, introspection typelib not found
+
+(process:2259): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+(xfce4-terminal:2318): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+/var/lib/dpkg/lock: 
+1440612889230	addons.repository	WARN	Unknown type id when parsing addon: 5
+1440612889239	addons.repository	WARN	Unknown type id when parsing addon: 5
+1440612889914	addons.update-checker	WARN	Update manifest for ubufox@ubuntu.com did not contain an updates property
+1440612890054	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+/var/lib/dpkg/lock: 
+
+(xfce4-session:1776): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+xfce4-volumed: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+(update-notifier:1830): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(polkit-gnome-authentication-agent-1:1868): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(light-locker:1847): Gdk-WARNING **: light-locker: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+blueman-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+/usr/bin/startxfce4: X server already running on display :0
+xfce4-session: GNOME compatibility is enabled and gnome-keyring-daemon is found on the system. Skipping gpg/ssh-agent startup.
+
+(process:1859): Indicator-Power-WARNING **: Fail to query backlight devices.
+
+(polkit-gnome-authentication-agent-1:1936): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1936): polkit-gnome-1-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (nm-applet:1870): CRITICAL **: nm_secret_agent_register: assertion 'priv->registered == FALSE' failed
+init: indicator-power main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-application respawning too fast, stopped
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power main process ended, respawning
+init: indicator-power respawning too fast, stopped
+
+(zeitgeist-datahub:1924): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:1924): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Loading configuration plugins
+blueman-applet version 1.23 starting
+Stale PID, overwriting
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+
+(process:2214): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Vector smash protection is enabled.
+
+(gedit:2315): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfce4-terminal:2170): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(firefox:2214): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
